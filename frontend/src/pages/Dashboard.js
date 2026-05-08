@@ -327,7 +327,7 @@ if (Object.keys(categoryTotals).length > 0) {
                   <span
                     className="txn-amount"
                     style={{
-                      color: e.amount > 0 ? "#00ff88" : "#ff4d6d",
+                      color: e.amount > 0 ? "#0A6A47" : "#ff4d6d",
                     }}
                   >
                     {e.amount > 0
